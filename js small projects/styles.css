@@ -17,10 +17,10 @@ html{
 
 ::selection{
 	background-color: #262626;
-	color: lime;
+	color: orange;
 }
 
-/*p:first-child span{
+/*------------p:first-child span{
 	font-size: 30px;
 }
 
@@ -66,12 +66,12 @@ ul li{
 }
 
 
-*/
+*/------------------------
 
 body{
 	display: flex;
 	height: 100vh;
-	align-items; center;
+	align-items: center;
 	justify-content: center;
 }
 
@@ -80,7 +80,8 @@ button{
 	background-color:  #a9a9a9;
 }
 
-button:hover{
+button:hover,
+button:focus{
 	background: gray;
 	color: white;
 }

@@ -7,5 +7,5 @@ in This one there is:
   it could be quote or article or some other type of authorised document;
 
 
-<<DISCLAIMER>>
-  //ONE THING ALL STYLING IS UP TO YOU AT THIS POINT, THIS IS JUST BOILER PLATE
+
+  <h2>ONE THING ALL STYLING IS UP TO YOU AT THIS POINT, THIS IS JUST BOILER PLATE</h2>
